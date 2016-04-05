@@ -6,7 +6,7 @@
   <body>
   <h1>My Website</h1>
   <h3>About Me!</h3>
-  <p>My name is Steven Munoz. I enjoy life and other stuff if you know what i mean.</p>
+  <p>My name is Steven Munoz. I enjoy life and other stuff.</p>
   <img src="http://media1.santabanta.com/full1/Creative/Abstract/abstract-444a.jpg" alt="This is a kool picture">
   
   <h3>My Favorite Websites</h3>
